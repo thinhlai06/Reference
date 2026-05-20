@@ -469,27 +469,3 @@ Zigbee is suitable for bedside sensor nodes because it supports low-power commun
 
 ---
 
-## 9. Recommended Citation Strategy During Q&A
-
-When asked about project foundations, the references can be grouped as follows:
-
-1. **For physiological-signal AI:**  
-   Use PhysioNet datasets and papers using PPG, ECG, pressure signals, and deep learning.
-
-2. **For IV drip monitoring:**  
-   Use IV drip-rate monitoring references, DripOMeter-style opto-electronic monitoring, and flow-rate accuracy references.
-
-3. **For Edge AI deployment:**  
-   Use Edge Impulse, TensorFlow Lite Micro, and Silicon Labs AI/ML Extension.
-
-4. **For wireless communication:**  
-   Use Silicon Labs Zigbee Fundamentals and Zigbee healthcare-monitoring papers.
-
-5. **For hospital multi-node monitoring:**  
-   Use Zigbee medical sensor network papers and intelligent infusion monitoring studies.
-
----
-
-## 10. Short Defense Statement
-
-The project is supported by three main groups of references: public physiological datasets from PhysioNet for vital-sign processing, IV drip-rate monitoring literature for optical drop detection and flow-rate estimation, and Zigbee/Edge AI documentation for deploying a low-power multi-node monitoring system on Silicon Labs hardware. These references justify the system architecture, sensing approach, wireless communication choice, and edge AI deployment strategy.
